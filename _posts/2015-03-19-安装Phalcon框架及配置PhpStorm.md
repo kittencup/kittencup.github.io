@@ -7,8 +7,6 @@ featured_image: /images/cover.jpg
 ---
 
 
-1.概述
--------
 新公司用的是phalcon框架，一个基于c语言的框架，虽然我的职位是前端开发，但是也阻止不了我对PHP框架的研究
 
 2.brew 安装 phalcon

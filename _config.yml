@@ -1,7 +1,6 @@
 # Site settings
-title: 'Strange Case' # Your Title
-tagline: 'Twisted tales to make you shudder' # A brief tagline for your site
-sidebar_image: /images/cover.jpg
+title: '小猫杯' # Your Title
+tagline: 'Where there is a will, there is a way' # A brief tagline for your site
 
 # Build settings
 markdown: redcarpet
