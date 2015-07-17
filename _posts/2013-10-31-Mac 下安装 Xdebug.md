@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Mac 下安装 Xdebug"
+date: 2013-10-31
+categories: ghost
+---
+
 ###通过brew 安装 xdebug
 
 ```bash

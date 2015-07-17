@@ -9,13 +9,13 @@ layout: default
       <ul class="meta">
         <li>
           <span>
-            Published
+            发布时间
           </span>
-          {{ page.date | date_to_string }}
+          {{ page.date | date:'%Y-%m-%d' }}
         </li>
         <li>
           <span>
-            Category
+            分类
           </span>
           {{ page.categories }}
         </li>
@@ -25,14 +25,14 @@ layout: default
       {% if page.previous.url %}
         <li class="previous">
           <a href="{{ site.baseurl }}{{ page.previous.url }}">
-            Previous
+            上一篇
           </a>
         </li>
       {% endif %}
       {% if page.next.url %}
       <li class="next">
         <a href="{{ site.baseurl }}{{ page.next.url }}">
-          Next
+          下一篇
         </a>
       </li>
       {% endif %}
@@ -44,4 +44,24 @@ layout: default
   <div class="container markdown-body">
     {{ content }}
   </div>
+
+  <div class="comment">
+    <!-- 多说评论框 start -->
+    <div class="ds-thread" data-thread-key="{{page.url}}" data-title="{{page.title}}" data-url="{{page.url}}"></div>
+    <!-- 多说评论框 end -->
+    <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+    <script type="text/javascript">
+      var duoshuoQuery = {short_name:"kittencup"};
+      (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+      })();
+    </script>
+    <!-- 多说公共JS代码 end -->
+  </div>
 </article>
+
