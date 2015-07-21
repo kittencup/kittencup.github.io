@@ -60,7 +60,7 @@ $ yo webapp
 
 安装完成后,Blog下生成的目录结构
 
-![](http://www.kittencup.com/wp-content/uploads/2015/02/yo.jpg)
+![](/images/2015-02-27-使用Yeoman构建Web App工作流 (一)/yo.jpg)
 
 6.目录结构
 -------
@@ -116,13 +116,13 @@ $ grunt serve
 ------
 livereload功能需要配置浏览器上的扩展，[Chrome-liveReload](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei)
 
-![](http://www.kittencup.com/wp-content/uploads/2015/02/liveload.jpg)
+![](/images/2015-02-27-使用Yeoman构建Web App工作流 (一)/liveload.jpg)
 
 
 安装完毕后，在浏览器右上方开启liveReload
 
 开启图案
-![](http://www.kittencup.com/wp-content/uploads/2015/02/open-livereload.jpg)
+![](/images/2015-02-27-使用Yeoman构建Web App工作流 (一)/open-livereload.jpg)
 
 这样LiveReload功能才能正常使用
 

@@ -108,7 +108,7 @@ default:
 3.tasks目录结构
 -------
 
-![](http://www.kittencup.com/wp-content/uploads/2015/02/tasks.jpg)
+![](/images/2015-02-28-使用Yeoman构建Web App工作流 (二)/tasks.jpg)
 
 4.用到的Grunt模块
 -------
@@ -399,7 +399,9 @@ module.exports = {
     }
 }
 ```
+
 [svgmin](https://github.com/sindresorhus/grunt-svgmin)
+
 > 压缩SVG
 
 ```javascript
@@ -413,8 +415,10 @@ module.exports = {
         }]
     }
 }
-```javascript
+```
+
 [uglify](https://github.com/gruntjs/grunt-contrib-uglify)
+
 > 压缩js
 
 ```javascript
