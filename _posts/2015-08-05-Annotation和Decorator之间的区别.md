@@ -5,7 +5,7 @@ date: 2015-08-05
 categories: javascript
 ---
 
-原文地址:http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html
+原文地址:[http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html](http://blog.thoughtram.io/angular/2015/05/03/the-difference-between-annotations-and-decorators.html)
 
 去年，Angular团队宣布了ECMAScript的语言扩展AtScript，它增加了类型(Type)和注解(Annotation)功能，以便能够更好调试和开发，半年后，在ng-conf上，
 团队宣布之前的AtScript变为了TypeScript，支持Annotation及另一个特性Decorator。
