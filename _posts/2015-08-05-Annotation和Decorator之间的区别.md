@@ -131,7 +131,7 @@ function annotation(target) {
 
 #### TypeScript是否支持Annotation或Decorator？
 
-正如你可能知道，Angular团队今年早些时候宣布，使用TypeScript来代替AtScript,因为这两种语言似乎解决了同样的问题。此外，有公告，版本1.5 alpha的TypeScript将支持Annotation和Decorator。
+正如你可能知道，Angular团队今年早些时候宣布，他们为了支持TypeScript准备放弃AtScript,因为这两种语言似乎解决了同样的问题。此外，有公告，版本1.5 alpha的TypeScript将支持Annotation和Decorator。
 
 TypeScript支持Decorator,但是不知道关于Angular 2具体的Annotation,这是有道理的,因为这些Annotation是Angular来实现细节的，这也意味着，无论是作为消费者的我们，或框架为了使代码编译需要提供这些Decorator。
 幸运的是，annotation和parameter,decorators在最近的Angular 2的代码库都已经实现了
