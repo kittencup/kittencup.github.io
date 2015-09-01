@@ -5,6 +5,14 @@ date: 2015-09-01
 categories: javascript
 ---
 
+项目地址
+-----------
+[https://github.com/kittencup/karma-jasmine-es6](https://github.com/kittencup/karma-jasmine-es6)
+
+介绍
+-----------
+[Karma](http://karma-runner.github.io/) 用来自动化完成单元测试 [Jasmine](http://jasmine.github.io/) 用来做单元测试
+
 package.json
 -----------
 
@@ -19,14 +27,6 @@ package.json
       }
 }
 ```
-
-#### jasmine,jasmine-core
-
-[Jasmine](http://jasmine.github.io/) 用来做单元测试
-
-#### karma
-
-[Karma](http://karma-runner.github.io/) 用来自动化完成单元测试
 
 #### karma-babel-preprocessor
 
@@ -47,7 +47,7 @@ karma.conf
 module.exports = function (config) {
     config.set({
 
-            // filtes的路径
+            // files的路径
             basePath: './',
 
             // karma中使用的框架
