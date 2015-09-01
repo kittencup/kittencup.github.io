@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015-02-18-Laravel 5 Eloquent 属性 Casts"
+title: "Laravel 5 Eloquent 属性 Casts"
 date: 2015-02-18
 categories: php
 ---
