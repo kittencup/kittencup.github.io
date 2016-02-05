@@ -5,11 +5,16 @@ date: 2015-07-16
 categories: javascript
 ---
 
-别忘记给star哦。。。。
+# 百度网盘下载
+链接: http://pan.baidu.com/s/1hqha7HE 
+密码: kwg4
 
-[https://github.com/kittencup/angularjs-video](https://github.com/kittencup/angularjs-video)
+# PPT下载
+链接: http://pan.baidu.com/s/1kTxQIvd 
+密码: 8kmp
 
-[https://github.com/kittencup/angularjs-video-code](https://github.com/kittencup/angularjs-video-code)
+
+[代码下载](https://github.com/kittencup/angularjs-video-code)
 
 目录
 

@@ -7,9 +7,11 @@ categories: php
 
 别忘记给star...
 
-[https://github.com/kittencup/zend-framework-2-video](https://github.com/kittencup/zend-framework-2-video)
+# 百度网盘下载
+链接: http://pan.baidu.com/s/1gd0Fwvp 
+密码: ewc4
 
-[https://github.com/kittencup/zend-framework-2-video-code](https://github.com/kittencup/zend-framework-2-video-code)
+[代码下载](https://github.com/kittencup/zend-framework-2-video-code)
 
 ###下载使用
 
